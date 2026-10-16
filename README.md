@@ -41,7 +41,7 @@ Ragas 기반 평가, Docker Compose로 원커맨드 실행
 mAP50-95 0.870 → 0.990, F1 0.852 → 0.970
 프로젝트 총괄, 방향 설정, 발표·문서화 담당
 <br>
-🧪 Side Projects (개인)
+Side Projects (개인)
 프로젝트	설명	Stack
 cosmos-desktop	3D 우주 파일 탐색기	Tauri · Rust · three.js
 arcanum-tarot	시네마틱 3D 타로 + Gemini 해석	Next.js · R3F
@@ -49,10 +49,9 @@ magician	손 모양·입으로 주문을 거는 웹캠 마법 게임	MediaPipe
 aipulse	개인용 AI 뉴스/논문 큐레이션	TypeScript
 saju-service	한지 콘셉트 사주 서비스	TypeScript
 <br>
-🤝 Collaboration
+Collaboration
 팀 프로젝트 3건(4~5인)에서 Backend 개발 · PM 역할 수행
 Notion 기반 회의록·개인 협업 일지 작성, GitHub로 코드 협업
-함께한 팀원: @SYLforge · @Seo-Junbeom · @carsy078-maker 외
 <br>
-📊 GitHub Stats
+GitHub Stats
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OH-BJ&layout=compact&hide_border=true"/>
