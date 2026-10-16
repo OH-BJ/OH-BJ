@@ -82,7 +82,6 @@
 ## 🤝 Collaboration
 - 팀 프로젝트 3건(4~5인)에서 **Backend 개발 · PM** 역할 수행
 - Notion 기반 회의록·개인 협업 일지 작성, GitHub로 코드 협업
-- 함께한 팀원: [@SYLforge](https://github.com/SYLforge) · [@Seo-Junbeom](https://github.com/Seo-Junbeom) · [@carsy078-maker](https://github.com/carsy078-maker) 외
 
 <br>
 
